@@ -1,4 +1,6 @@
 import requests
+import os
+
 
 LINKEDIN_CLIENT_ID = ''  # todo - fill this field up
 LINKEDIN_CLIENT_SECRET = ''  # todo - fill this field up
